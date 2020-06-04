@@ -1,0 +1,41 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+{
+  "product": {
+    "name": "map"
+  },
+  "client": {
+    "name": "CH Mayotte"
+  },
+  "platform": {
+    "fingerprint": [
+      "8dc0296aff780ca9450e68b0d93ddac50a217e69ef792ba0c38fed7eb5e3eead"
+    ],
+    "environment": "Production",
+    "mode": "offline"
+  },
+  "licensing": {
+    "type": "Commercial",
+    "isMachineLocked": "true",
+    "generated": "2020-06-02",
+    "start": "2020-05-28",
+    "end": "2023-05-27",
+    "hosts": "1000",
+    "catalog_level": "4"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v1.6.2
+Comment: http://openpgpjs.org
+
+wsBcBAEBCAAQBQJe1msdCRC4oxbLyI+7ygAAHFQH/3r7aaFIO7ZAYNjZagfu
+tltBz2toOjq8q4ehSa6xddmDkZ+EY/Ym48t8RMMLx8mvGFby8C5RSv8lI8y7
+jB5qwWgKT78bC0wGUgTkp12SIm9sbbXFO75gBTg8h/qbiUv7I/i1myCoc84I
+orLHBi/XF3QFJq6/DwbQF7y0/Hrm65Bv9tfTnFdx1YnuD+VgnNUPYj0zU9d/
+x9ZF0fiFI0LvHnjULHwqWsA7gI3fFomDpb7gwopIAdFD89eLReBNimrAuGJk
+HLaGwEHsyuIEXLlISN/XhcxrLG638wiqz2ZDR44Byyu0JgL9wkUgQN+7uE//
+gQbXkxYrDp1GJVkAqHQyovk=
+=cagd
+-----END PGP SIGNATURE-----
